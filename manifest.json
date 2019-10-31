@@ -1,0 +1,26 @@
+{
+	"manifest_version": 2,
+	"name": "Embarrassed",
+	"description": "Hides embarrassing anime music on Youtube.",
+	"version": "1.0",
+	"icons": {
+    "16": "sweat-icon.png"
+  },
+	"content_scripts": [
+		{
+			"matches": [
+				"https://*.youtube.com/watch*",
+				"https://*.youtube.co.nz/watch*"
+			],
+			"js": [
+				"main.js"
+			],
+			"css": [
+				"main.css"
+			]
+		}
+	],
+	"page_action": {
+		"default_title": "Embarrassed!"
+	}
+}
