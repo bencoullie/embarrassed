@@ -6,10 +6,10 @@ const checkForWeebShit = (stringyThing) => {
 
 const hideWeebShit = (video) => {
   console.log('we weebing')
-  const manlyImg = document.createElement('img');
-  manlyImg.src = 'https://cdn.shopify.com/s/files/1/0864/4974/articles/how-to-trim-header.jpg';
-  manlyImg.classList.add('💦')
-  video.after(manlyImg)
+  const ultraNormyImage = document.createElement('img');
+  ultraNormyImage.src = 'https://cdn.shopify.com/s/files/1/0864/4974/articles/how-to-trim-header.jpg';
+  ultraNormyImage.classList.add('💦')
+  video.after(ultraNormyImage)
 }
 
 const pollTimer = setInterval(() => {
