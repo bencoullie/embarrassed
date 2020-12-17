@@ -1,6 +1,7 @@
 # Embarrassed
-A chrome addon to hide your weebyness on youtube.
 ![sweat](https://i.ya-webdesign.com/images/wet-emoji-png-17.png)
+
+A chrome addon to hide your weebyness on youtube.
 
 ## What does it do?
 Basically replaces any anime music video (just the visuals) with a still image of a person learning to shave their beard (🤷‍♂️). 
